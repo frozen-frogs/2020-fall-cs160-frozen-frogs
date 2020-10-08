@@ -1,0 +1,6 @@
+/.vscode/**
+/backend/.venv/**
+*.pyc
+*.pyo
+**/__pycache__
+/frontend/static/img/book_thumbnails/**
